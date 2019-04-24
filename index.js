@@ -4,7 +4,7 @@ var katzDeli = [];
 // Then create a function takeANumber
 //that accepts two paramaters, current line (katzDeli) and name. The function should return
 // a welcome msg (but make sure I say number)
-//The function should return a welcome message including the new person's position 
+//The function should return a welcome message including the new person's position
 //in line, such as `"Welcome, Ada. You are number 1 in lin
 var katzDeli = [];
 
